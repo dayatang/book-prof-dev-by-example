@@ -1,0 +1,46 @@
+{
+   "title": "领域建模：方法与范例",
+   "author": "杨宇 gdyangyu@gmail.com",
+   "description": "领域建模的理论、方法和几个范例",
+   "language" : "zh-hans",
+   "links" : {
+      "sidebar" : {
+         "Home" : "http://books.yyang.io/"
+      }
+   },
+   "plugins": [
+      "emphasize", 
+      "disqus", 
+      "-search", 
+      "search-pro", 
+      "splitter", 
+      "mermaid", 
+      "tbfed-pagefooter", 
+      "toggle-chapters",
+      "ga",
+      "baidu",
+      "codeblock-filename",
+      "include-codeblock"
+   ],
+   "pluginsConfig": {
+      "disqus": {
+         "shortName": "domain-modelling"
+      },
+      "search-pro": {
+         "cutWordLib": "nodejieba",
+         "defineWord": ["领域建模"]
+      },
+      "tbfed-pagefooter": {
+         "copyright":"Copyright &copy yyang.io 2016",
+         "modify_label": "该文件修订时间：",
+         "modify_format": "YYYY-MM-DD HH:mm:ss"
+      },
+      "ga": {
+         "token": "UA-73404413-1"
+      },
+      "baidu": {
+         "token": "79fc6341769f7f127b2d9f16c48e503b"
+      }
+   }
+}
+
