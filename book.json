@@ -1,7 +1,7 @@
 {
-   "title": "领域建模：方法与范例",
+   "title": "专业软件开发：范例驱动",
    "author": "杨宇 gdyangyu@gmail.com",
-   "description": "领域建模的理论、方法和几个范例",
+   "description": "以一个完整的项目范例说明软件开发的思想、原则、实践和工具集",
    "language" : "zh-hans",
    "links" : {
       "sidebar" : {
@@ -24,11 +24,11 @@
    ],
    "pluginsConfig": {
       "disqus": {
-         "shortName": "domain-modelling"
+         "shortName": "prof-dev-by-example"
       },
       "search-pro": {
          "cutWordLib": "nodejieba",
-         "defineWord": ["领域建模"]
+         "defineWord": ["专业软件开发"]
       },
       "tbfed-pagefooter": {
          "copyright":"Copyright &copy yyang.io 2016",
