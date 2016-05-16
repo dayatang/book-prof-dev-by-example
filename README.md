@@ -40,6 +40,9 @@
    * 日志：SLF4J
 * 移动App
    * React Native
+* 虚拟机和容器
+   * 虚拟机：VirtualBox
+   * 容器：Docker
 * 工具
    * 单元测试：JUnit
    * 集成测试：Arquillian
@@ -52,16 +55,13 @@
    * 性能测试：JMeter
    * 版本控制：GIT
    * 自动化构建：Maven, Nexus
-   * 持续集成工具：Jenkins
-   * 质量分析工具：Sonarqube
-   * 代码剖析工具：VisualVM
-   * 虚拟机：VirtualBox, Vagrant
-   * IT自动化：Ansible
+   * 持续集成：Jenkins
+   * 质量分析：Sonarqube
+   * 代码剖析：VisualVM
+   * IT自动化：Ansible、Vagrant
    * 项目管理与Bug跟踪：Redmine, 看板
    * UML建模：Visual Paradigm
    * 原型建模：Azure RP
    * IDE：IntelliJ IDEA
    * 日志分析展示：ELK（ElasticSearch、Logstash、Kibana）
    * API文档生成：Doxmate、Doxygen
-   
-  
